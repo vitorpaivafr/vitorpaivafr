@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 
 👋 Hello! I’m a backend developer specializing in TypeScript, with a strong focus on building scalable and well-structured server-side applications. Most of my experience is centered on backend architecture, APIs, and business logic, but I’m also comfortable developing web and mobile interfaces using React and React Native when needed.<br><br>
 
