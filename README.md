@@ -1,8 +1,24 @@
-# 💫 About Me:
+# 💼 About Me
 
-👋 Hello! I’m a backend developer specializing in TypeScript, with a strong focus on building scalable and well-structured server-side applications. Most of my experience is centered on backend architecture, APIs, and business logic, but I’m also comfortable developing web and mobile interfaces using React and React Native when needed.<br><br>
+Hi, I’m Vitor Paiva — a backend developer specialized in TypeScript, focused on building scalable, maintainable, and well-structured server-side applications.
 
-🎯 My goal is to continue evolving as a backend specialist in the TypeScript ecosystem, while maintaining enough versatility to collaborate effectively on frontend tasks. I value having a comprehensive understanding of systems — from API design and data modeling to how the client consumes and interacts with the services.<br><br>
+My main expertise is backend architecture, API design, and business logic implementation. I prioritize clean code, performance, and long-term maintainability when designing systems.
+
+Although backend is my core focus, I also have experience working with React and React Native, which allows me to understand applications end-to-end — from data modeling and service layers to how the frontend consumes and interacts with APIs.
+
+## 🎯 Professional Focus
+
+Backend development with TypeScript
+
+Scalable API architecture
+
+Clean and maintainable codebases
+
+System design and data modeling
+
+Practical understanding of frontend integration
+
+My goal is to continue growing as a backend specialist while maintaining the versatility required to collaborate effectively across different layers of a system.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vitorpaivafr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilario-fernandes-a72924226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hillfernandes.paiva@gmail.com) 
